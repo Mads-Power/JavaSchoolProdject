@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="innlevering1@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.1">
+    <root id="1"/>
+    <schema id="2" parent="1" name="innlevering1">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="mysql"/>
+    <schema id="5" parent="1" name="performance_schema"/>
+    <schema id="6" parent="1" name="sakila"/>
+    <schema id="7" parent="1" name="sys"/>
+    <schema id="8" parent="1" name="test"/>
+    <schema id="9" parent="1" name="world"/>
+    <schema id="10" parent="1" name="westerdals"/>
+    <table id="11" parent="2" name="emne"/>
+    <column id="12" parent="11" name="emneID">
+      <Position>1</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="13" parent="11" name="emneNavn">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="14" parent="11" name="facilities">
+      <Position>3</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="15" parent="11" name="RegisteredStudents">
+      <Position>4</Position>
+      <DataType>int(255)|0</DataType>
+    </column>
+    <column id="16" parent="11" name="teacher">
+      <Position>5</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+  </database-model>
+</dataSource>

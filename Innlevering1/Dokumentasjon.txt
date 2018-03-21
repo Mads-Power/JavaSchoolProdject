@@ -1,0 +1,30 @@
+Dokumentasjon:
+
+Instruksjoner for å kjøre programmet: åpne MySQL workbench og log deg inn der, jeg bruker det til å kjøre databasen fra. 
+
+Kjør først Innlevering 1 og test det ut, for å kunne kjøre innlevering2 (ligger i mappen ServerCientInnlevering2 sammen med innlevering1) må tabellen "emne" være laget.
+
+Programmet for Innlevering1 kjøres fra MainMethod, bare å start opp og kose seg.
+
+
+Kilder:
+StackOverflow,
+Google,
+Youtube,
+w3schools,
+mvnrepository.com,
+oracle.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+

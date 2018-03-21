@@ -1,0 +1,10 @@
+Evaluering av Håkon Wang Schütt sin mappeoppgave, innlevering 2.
+
+
+Ser veldig bra ut Håkon, ettersom jeg ikke føler meg helt kompentent til å rette på deg fant jeg heller ikke så mye å si.
+
+
+hadde litt problemer med å logge inn.
+forslag: kunne eventuelt vært en feilmelding på hver enkelt oppkoblingsspørsmål(pass, user etc) som fanger hvis bruker skriver inn feil.
+
+Menyen er veldig fin og oversiktelig.
